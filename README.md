@@ -24,7 +24,7 @@ I wanna be the very best - BackEnd Junior.
 ### Find me at 📧
 <p align="left">
 <a href="https://linkedin.com/in/hugodoniesl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugodoniesl" height="30" width="40" /></a>
-<p href="https://discord.gg/sadohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadohu" height="30" width="40" />SADOHU</p>
+<a href="https://discord.gg/sadohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadohu" height="30" width="40" />SADOHU</a>
 </p>
 
 ### 💻 Languages and Tools
