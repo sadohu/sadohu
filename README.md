@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<h1>Hi!, I am <a href="https://github.com/Defcon27">Hugo Donie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hi!, I am <a href="https://github.com/sadohu">Hugo Donie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -24,7 +24,7 @@ I wanna be the very best - BackEnd Junior.
 ### Find me at 📧
 <p align="left">
 <a href="https://linkedin.com/in/hugodoniesl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugodoniesl" height="30" width="40" /></a>
-<a href="https://discord.gg/sadohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadohu" height="30" width="40" />SADOHU</a>
+<a href="https://discord.gg/sadohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadohu" height="30" width="40" />Sadohu</a>
 </p>
 
 ### 💻 Languages and Tools
