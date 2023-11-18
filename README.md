@@ -36,6 +36,6 @@ I wanna be the very best - BackEnd Junior.
   <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=sadohu&show_icons=true&line_height=21&theme=react" alt="sadohu's Github Stats" />
 </p>
 <p align="center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadohu&show_icons=true&locale=en&layout=compact" alt="sadohu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadohu&" alt="sadohu" />
 </p>
 
