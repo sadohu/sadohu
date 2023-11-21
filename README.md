@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I wanna be the very best - BackEnd Junior.
 
+
 ### Find me at 📧
 <p align="left">
 <a href="https://linkedin.com/in/hugodoniesl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugodoniesl" height="30" width="40" /></a>
 <a href="https://discord.gg/sadohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadohu" height="30" width="40" />Sadohu</a>
 </p>
+
 
 ### 💻 Languages and Tools
 <p align="center">
@@ -65,6 +67,27 @@ I wanna be the very best - BackEnd Junior.
 </p>
 
 <p align="center">
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
+            width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" />
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
+            height="40" />
+    </a>
+</p>
+
+<p align="center">
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" />
@@ -74,7 +97,6 @@ I wanna be the very best - BackEnd Junior.
             width="40" height="40" />
     </a>
 </p>
-
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -113,26 +135,6 @@ I wanna be the very best - BackEnd Junior.
     </a>
 </p>
 
-<p align="center">
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
-            height="40" />
-    </a>
-</p>
 
 ### 🚀 Quick Stats
 <p align="center">
